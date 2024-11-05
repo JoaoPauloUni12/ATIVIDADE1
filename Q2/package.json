@@ -1,0 +1,11 @@
+{
+  "name": "q2Modulo",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000A\u0000T\u0000I\u0000V\u0000I\u0000D\u0000A\u0000D\u0000E\u00001\u0000\r\u0000 \u0000",
+  "main": "q2index.js",
+  "scripts": {
+    "start": "node q2index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
